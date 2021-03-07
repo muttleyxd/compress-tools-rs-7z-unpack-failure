@@ -1,0 +1,1 @@
+Showcase of funny bug happening with compress-tools-rs (commit c25ead8), where single file inside 7z archive decompresses fine, but two files fail.
